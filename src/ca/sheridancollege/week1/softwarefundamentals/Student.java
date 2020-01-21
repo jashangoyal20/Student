@@ -17,6 +17,7 @@ public class Student {
     public String good;
     public String getEmail() {
         return email;
+        
     }
 
     public void setEmail(String email) {
