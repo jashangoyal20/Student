@@ -15,7 +15,7 @@ public class Student {
     private String email;
     private int a;
     public String good;
-    private String status
+    private String status;
     public String getEmail() {
         return email;
     }
