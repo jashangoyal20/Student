@@ -16,6 +16,7 @@ public class Student {
     private int a;
     public String good;
     private String status;
+    private int prime;
     
     public String getEmail() {
         return email;
