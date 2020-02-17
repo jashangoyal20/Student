@@ -13,7 +13,7 @@ public class Student {
     
     private String name;
     private String email;
-    private int a;
+    private int b;
     public String good;
     private String status;
     private int prime;
